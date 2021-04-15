@@ -1,8 +1,8 @@
 {
   "name": "Sato crypto bot",
-  "description": "The server side for Sato.",
+  "description": "The server side for my CryptoBot for my Thesis.",
   "image": "heroku/python",
-  "repository": "https://github.com/Ahirice/sato",
+  "repository": "https://github.com/CzDora/CryptoThesisBot/",
   "keywords": ["python", "flask" ],
   "addons": [ "heroku-postgresql" ],
   "environments": {
